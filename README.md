@@ -7,3 +7,7 @@ FORMAT:
 - DATE
 - BRIEF DESCRIPTION OF YOUR CHANGE
 -----------
+1. 
+- Hien Le
+- Dec/21/2018
+- Update intitial version of database.

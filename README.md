@@ -10,4 +10,4 @@ FORMAT:
 1. 
 - Hien Le
 - Dec/21/2018
-- Update intitial version of database.
+- Upload intitial version of database.
